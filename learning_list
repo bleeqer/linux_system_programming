@@ -1,20 +1,4 @@
-Concepts of Linux Programming
-Files and the Filesystem
-Regular files
-Directories and links
-Hard links
-Symbolic links
-Special files
-Filesystems and namespaces
-Processes
-Threads
-Process hierarchy
-Users and Groups
-Permissions
-Signals
-Interprocess Communication
-Headers
-Error Handling
+
 Getting Started with System Programming
 2. File I/O
 Opening Files
