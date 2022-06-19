@@ -1,16 +1,13 @@
 
 Getting Started with System Programming
 2. File I/O
-Opening Files
-The open( ) System Call
-Flags for open( )
-Owners of New Files
-Permissions of New Files
-The creat( ) Function
-Return Values and Error Codes
-Reading via read( )
-Return Values
-Reading All the Bytes
+Opening Files - OK
+The open( ) System Call - OK
+Flags for open( ) - OK
+Owners of New Files - OK
+Permissions of New Files - OK
+Reading via read( ) - OK
+Reading All the Bytes - OK
 Nonblocking Reads
 Other Error Values
 Size Limits on read( )
