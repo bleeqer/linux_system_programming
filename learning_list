@@ -11,7 +11,7 @@ Reading All the Bytes - OK
 Nonblocking Reads
 Other Error Values
 Size Limits on read( )
-Writing with write( )
+Writing with write( ) - OK
 Partial Writes
 Append Mode
 Nonblocking Writes
@@ -63,7 +63,7 @@ Closing All Streams
 Reading from a Stream
 Reading a Character at a Time
 Putting the character back
-Reading an Entire Line
+Reading an Entire Line - OK
 Reading arbitrary strings
 Reading Binary Data
 Writing to a Stream
